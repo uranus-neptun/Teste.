@@ -1,3 +1,3 @@
 # Teste.
 > Escrito por Alura Start
-> Testado e escrito por JoãiF. Brizola.
+> Testado e escrito por João F. Brizola.
